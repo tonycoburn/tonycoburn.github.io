@@ -12,4 +12,8 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Work email: [kcoburn@ucmerced.edu](mailto:kcoburn@ucmerced.edu)
+Personal email: [katie.m.coburn@gmail.com](mailto:katie.m.coburn@gmail.com)
+
+Work phone: +1 (209) 205-6178
+Personal phone: +1 (408) 914-5373
