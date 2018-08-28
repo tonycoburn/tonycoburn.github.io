@@ -12,7 +12,7 @@ My primary research interests include reproducibility and related issues, such a
 
 ### Contact me
 
-<button class = "mysched_45482">GET IN TOUCH</button>
+<button onclick="location.href='https://libcal.ucmerced.edu/appointments/katiecoburn'" class = "mysched_45482">GET IN TOUCH</button>
 
 Work email: [kcoburn@ucmerced.edu](mailto:kcoburn@ucmerced.edu)
 
