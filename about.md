@@ -12,6 +12,7 @@ My primary research interests include reproducibility and related issues, such a
 
 ### Contact me
 
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://api3.libcal.com/js/myscheduler.min.js"></script>
 <script>
 jQuery(function(){
@@ -35,6 +36,7 @@ jQuery(function(){
   opacity: 0.9;
 }
 </style>
+
 
 Work email: [kcoburn@ucmerced.edu](mailto:kcoburn@ucmerced.edu)
 
