@@ -21,7 +21,7 @@ I have a habit of collecting stray cats. Here is Ari:
 ... and here is Gray:
 
 
-I read a lot of fiction. You can find my Goodreads profile here: 
+I read a lot of fiction.
 
 I also play a lot of video games. Some all-time favorites include:
   - Detroit: Become Human
