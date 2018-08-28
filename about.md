@@ -12,16 +12,7 @@ My primary research interests include reproducibility and related issues, such a
 
 ### Contact me
 
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://api3.libcal.com/js/myscheduler.min.js"></script>
-<script>
-jQuery(function(){
-   jQuery("#mysched_45482").LibCalMySched({iid: 4052, lid: 0, gid: 0, uid: 45482, width: 560, height: 680, title: 'Make an Appointment'});
-});
-</script>
-<!-- Place the following link anywhere in your page. Make sure the id "mysched_45482" matches with the above code: jQuery("#mysched_45482")  //-->
-<button class = "mysched_45482" type="introbutton">GET IN TOUCH</button>
-<button id="mysched_45482" href="#">Schedule Appointment</button>
+<button class = "mysched_45482">GET IN TOUCH</button>
 
 Work email: [kcoburn@ucmerced.edu](mailto:kcoburn@ucmerced.edu)
 
