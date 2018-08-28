@@ -10,9 +10,20 @@ In August of 2018, I was hired as a CLIR (Council on Library and Information Res
 
 ### Non-Academic Interests
 
+I love animals, especially dogs. Here is a picture of my 3-year-old English Bulldog, Maggie:
+
+
+I have a habit of collecting stray cats. Here is Ari:
+
+
+... and here is Gray:
+
+
 I read a lot of fiction. You can find my Goodreads profile here: 
 
-
+I also play a lot of video games. Some all-time favorites include:
+  - Detroit: Become Human
+  - Life is Strange
 
 ### Contact me
 
