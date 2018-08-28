@@ -26,6 +26,7 @@ I read a lot of fiction. You can find my Goodreads profile here:
 I also play a lot of video games. Some all-time favorites include:
   - Detroit: Become Human
   - Life is Strange
+  - League of Legends (UN: finagleamadeus)
 
 ### Contact me
 
