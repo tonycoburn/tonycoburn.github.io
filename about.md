@@ -14,6 +14,7 @@ My primary research interests include reproducibility and related issues, such a
 
 I love animals, especially dogs. Here is a picture of my 3-year-old English Bulldog, Maggie:
 
+<img src="images/Maggie_pretty.jpg" width="200">
 ![GitHub Logo](/images/Maggie_pretty.jpg =300x300)
 
 I have a habit of collecting stray cats. Here is Ari:
