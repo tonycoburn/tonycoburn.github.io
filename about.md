@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am originally from San Jose, California. I obtained my B.S. in psychology from San Jose State University in 2011 and my Ph. D. in quantitative psychology from the University of California, Merced in 2018, working with my advisor, Dr. Jack L. Vevea. His website is here:
+I am originally from San Jose, California. I obtained my B.S. in psychology from San Jose State University in 2011 and my Ph. D. in quantitative psychology from the University of California, Merced in 2018, working with my advisor, Dr. Jack L. Vevea. His website is [here](http://faculty.ucmerced.edu/jvevea/).
 
 In August of 2018, I was hired as a CLIR (Council on Library and Information Resources) postdoctoral fellow in Data Curation for the Sciences and Social Sciences. I am currently located in room SSM 211B at UC Merced, where I offer regular office hours and meetings with faculty, staff, graduate students, and post-docs. I also coordinate and host various workshops on data science at UC Merced.
 
@@ -27,6 +27,11 @@ I also play a lot of video games. Some all-time favorites include:
   - Detroit: Become Human
   - Life is Strange
   - League of Legends (UN: finagleamadeus)
+  - Stardew Valley
+  - Star Wars: Knights of the Old Republic
+  - Dragon Age: Origins
+  - The Witcher 3
+  - Spiderweb Software isometric RPGs
 
 ### Contact me
 
