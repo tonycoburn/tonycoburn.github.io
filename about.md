@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am originally from San Jose, California. I obtained my B.S. in psychology from San Jose State University in 2011 and my Ph. D. in quantitative psychology from the University of California, Merced in 2018, working with my advisor, Dr. Jack L. Vevea. His website is [here](http://faculty.ucmerced.edu/jvevea/).
+I am originally from San Jose, California. I obtained my B.S. in psychology from [San Jose State University](http://www.sjsu.edu/) in 2011 and my Ph. D. in quantitative psychology from the [University of California, Merced](https://www.ucmerced.edu/) in 2018, working with my advisor, Dr. Jack L. Vevea. His website is [here](http://faculty.ucmerced.edu/jvevea/).
 
 In August of 2018, I was hired as a [CLIR (Council on Library and Information Resources) postdoctoral fellow](https://www.clir.org/fellowships/postdoc/fellowsupdate/) in Data Curation for the Sciences and Social Sciences. I am currently located in room SSM 211B at UC Merced, where I offer regular office hours and meetings with faculty, staff, graduate students, and post-docs. I also coordinate and host various workshops on data science at UC Merced.
 
