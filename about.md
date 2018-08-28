@@ -19,6 +19,7 @@ I love animals, especially dogs. Here is a picture of my 3-year-old English Bull
 
 I have a habit of collecting stray cats. Here is Ari:
 
+<img src="images/ari_cute.jpg" width="200">
 
 ... and here is Gray:
 
