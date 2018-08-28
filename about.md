@@ -8,7 +8,7 @@ I am originally from San Jose, California. I obtained my B.S. in psychology from
 
 In August of 2018, I was hired as a [CLIR (Council on Library and Information Resources) postdoctoral fellow](https://www.clir.org/fellowships/postdoc/fellowsupdate/) in Data Curation for the Sciences and Social Sciences. I am currently located in room SSM 211B at UC Merced, where I offer regular office hours and meetings with faculty, staff, graduate students, and post-docs. I also coordinate and host various workshops on data science at UC Merced.
 
-My primary research interests include reproducibility and related issues, such as publication bias. My dissertation proposed a weight-function model for moderators of publication bias (factors other than statistical significance that impact studies' chance of publication). I also have considerable experience with R and have published an R package on CRAN to implement these weight-function models; see weightr (Coburn & Vevea, 2015).
+My primary research interests include reproducibility and related issues, such as publication bias. My dissertation proposed a weight-function model for moderators of publication bias (factors other than statistical significance that impact studies' chance of publication). I also have considerable experience with R and have published an R package on CRAN to implement these weight-function models; see [weightr](https://cran.r-project.org/web/packages/weightr/index.html) (Coburn & Vevea, 2015).
 
 ### Non-Academic Interests
 
