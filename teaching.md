@@ -24,7 +24,7 @@ permalink: /teaching/
 
 * Spring 2019
   + Shiny Workshop
-    - [materials]()
+    - [materials](https://osf.io/69j37/)
     - [student feedback](/Shiny_Workshop_2019.csv)
 * Summer 2018
   + 8-Week Statistics Bootcamp, Competitive Edge Summer Bridge Program
