@@ -4,18 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Northwestern University
+## Northwestern University
 
 dfdf
 
-# University of California, Merced
+## University of California, Merced
 
-## Workshops
+### Workshops
 
-## Courses (Instructor of Record)
+### Courses (Instructor of Record)
 
-## Courses (Teaching Assistant)
+### Courses (Teaching Assistant)
 
-### Undergraduate Level
+#### Undergraduate Level
 
-### Graduate Level
+#### Graduate Level
