@@ -13,7 +13,8 @@ permalink: /teaching/
     - [Workshops (Instructor)](#workshops)
     - [Courses (Instructor of Record)](#instruct2)
     - [Courses (Teaching Assistant)](#ta2)
-        - test
+        - [Graduate Level](#grad)
+        - [Undergraduate Level](#undergrad)
 
 ## Northwestern University {#northwest}
 
@@ -61,13 +62,13 @@ permalink: /teaching/
 
 ### Courses (Teaching Assistant) {#ta2}
 
-#### Graduate Level
+#### Graduate Level {#grad}
 
 * Fall 2018
   + PSY 202A: Advanced Psychological Statistics I
     - [student feedback](/F2017-PSY_202A_01_Adv_Psych_Statistics_I.pdf) -- *average: 6.8/7*
 
-#### Undergraduate Level
+#### Undergraduate Level {#undergrad}
 
 * Spring 2018
   + PSY 10: Introduction to Statistics
