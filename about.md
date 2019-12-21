@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink:
 ---
 
 I am originally from San Jose, California. I obtained my B.S. in psychology from [San Jose State University](http://www.sjsu.edu/) in 2011 and my Ph. D. in quantitative psychology from the [University of California, Merced](https://www.ucmerced.edu/) in 2018, working with my advisor, Dr. [Jack L. Vevea](http://faculty.ucmerced.edu/jvevea/).
