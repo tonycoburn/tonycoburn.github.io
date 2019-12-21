@@ -31,6 +31,7 @@ permalink: /teaching/
     - [student feedback](/Summer_Bridge_2017.pdf)
 * Summer 2017
   + 8-Week Statistics Bootcamp, Competitive Edge Summer Bridge Program
+    - [materials](https://ucmerced.app.box.com/v/ucmstatsworkshop)
     - [student feedback](/Summer_Bridge_2018.pdf)
 
 ### Courses (Instructor of Record)
