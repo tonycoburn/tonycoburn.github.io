@@ -72,15 +72,14 @@ permalink: /teaching/
 
 * Spring 2018
   + PSY 10: Introduction to Statistics
-    - Lab 1 [student feedback]()
-    - Lab 2 [student feedback]()
+    - Lab 1 [student feedback](/SP18-PSY_010_21L_Analysis_of_Psychological_Data.pdf) -- *average: 5.6/7*
+    - Lab 2 [student feedback](/SP18-PSY_010_22L_Analysis_of_Psychological_Data.pdf) -- *average: 5.9/7*
 * Spring 2017
   + PSY 10: Introduction to Statistics
-    - Lab 1 [student feedback]()
-    - Lab 2 [student feedback]()
+    - Lab [student feedback](/Spring_2017-PSY_010L_10_Analysis_of_Psych_Data_Lab.pdf) -- *average: 5.5/7*
 * Fall 2016
   + PSY 10: Introduction to Statistics
-    - [student feedback]()
+    - [student feedback](/Fall_2016-PSY_010_03_Analysis_of_Psychological_Data_(201630-35756-100156913).pdf)
 * Spring 2016
   + PSY 10: Introduction to Statistics
     - [student feedback]()
