@@ -8,10 +8,24 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record)
 
+* Fall 2019
+  + STAT 301: Data Science I
+    - [materials]()
+    - [student feedback]()
+
+### Courses (Teaching Assistant)
+
+* Winter 2020
+  + 
+
 ## University of California, Merced
 
 ### Workshops
 
+* Spring 2019
+  + Shiny Workshop
+    - [materials]()
+    - [student feedback]()
 * Summer 2018
   + 8-Week Statistics Bootcamp, Competitive Edge Summer Bridge Program
     - [student feedback](/Summer_Bridge_2017.pdf)
@@ -25,4 +39,12 @@ permalink: /teaching/
 
 #### Undergraduate Level
 
+* dfdf
+  + PSY 105: Advanced Research Methods
+    - [student feedback]()
+
 #### Graduate Level
+
+* Fall 2018
+  + PSY 202A: Graduate Statistics
+    - [student feedback]()
