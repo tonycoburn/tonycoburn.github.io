@@ -94,7 +94,6 @@ permalink: /teaching/
     - [student feedback](/F2014-PSY_001_01_Introduction_to_Psychology_(201430-30073-100156913).pdf) -- *average: 6.2/7*
 * Spring 2014
   + PSY 10: Introduction to Statistics
-    - [student feedback]()
 * Fall 2013
   + PSY 189: Behavioral Genetics
     - [student feedback]()
@@ -103,4 +102,4 @@ permalink: /teaching/
     - [student feedback]()
 * Fall 2012
   + PSY 001: Introduction to Psychology
-    - [student feedback]()
+    - [student feedback](/F2012-PSY_001_01_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
