@@ -85,13 +85,13 @@ permalink: /teaching/
     - [student feedback](/SP2016-PSY_010_03_Analysis_of_Psychological_Data.pdf) -- *average: 5.4/7*
 * Fall 2015
   + PSY 105: Advanced Research Methods in Psychology
-    - [student feedback]()
+    - [student feedback](/F2015_-PSY_105_01_Adv_Research_Methods_in_Psych.pdf) -- *average: 6.4/7*
 * Spring 2015
   + PSY 001: Introduction to Psychology
-    - [student feedback]()
+    - [student feedback](/SP_2015-PSY_001_02_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
 * Fall 2014
   + PSY 001: Introduction to Psychology
-    - [student feedback]()
+    - [student feedback](/F2014-PSY_001_01_Introduction_to_Psychology_(201430-30073-100156913).pdf) -- *average: 6.2/7*
 * Spring 2014
   + PSY 10: Introduction to Statistics
     - [student feedback]()
