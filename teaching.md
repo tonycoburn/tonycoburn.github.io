@@ -40,10 +40,12 @@ permalink: /teaching/
 * Summer 2017
   + PSY 10: Introduction to Statistics
     - [materials](https://www.dropbox.com/sh/a220cdf10rhfjpa/AADnANiIDvZWyAzSjytJYobwa?dl=0)
-    
+    - [student feedback]()
   
 * Summer 2016
   + PSY 10: Introduction to Statistics
+    - [materials](https://www.dropbox.com/s/97776wxxyto9chw/Spring_2016_materials.zip?dl=0)
+    - [student feedback]()
 
 ### Courses (Teaching Assistant)
 
