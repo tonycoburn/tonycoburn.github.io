@@ -37,16 +37,54 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record)
 
+* Summer 2017
+  + PSY 10: Introduction to Statistics
+  
+* Summer 2016
+  + PSY 10: Introduction to Statistics
+
 ### Courses (Teaching Assistant)
-
-#### Undergraduate Level
-
-* dfdf
-  + PSY 105: Advanced Research Methods
-    - [student feedback]()
 
 #### Graduate Level
 
 * Fall 2018
   + PSY 202A: Graduate Statistics
+    - [student feedback]()
+
+#### Undergraduate Level
+
+* Spring 2018
+  + PSY 10: Introduction to Statistics
+    - Lab 1 [student feedback]()
+    - Lab 2 [student feedback]()
+* Spring 2017
+  + PSY 10: Introduction to Statistics
+    - Lab 1 [student feedback]()
+    - Lab 2 [student feedback]()
+* Fall 2016
+  + PSY 10: Introduction to Statistics
+    - [student feedback]()
+* Spring 2016
+  + PSY 10: Introduction to Statistics
+    - [student feedback]()
+* Fall 2015
+  + PSY 105: Advanced Research Methods in Psychology
+    - [student feedback]()
+* Spring 2015
+  + PSY 001: Introduction to Psychology
+    - [student feedback]()
+* Fall 2014
+  + PSY 001: Introduction to Psychology
+    - [student feedback]()
+* Spring 2014
+  + PSY 10: Introduction to Statistics
+    - [student feedback]()
+* Fall 2013
+  + PSY 189: Behavioral Genetics
+    - [student feedback]()
+* Spring 2013
+  + PSY 001: Introduction to Psychology
+    - [student feedback]()
+* Fall 2012
+  + PSY 001: Introduction to Psychology
     - [student feedback]()
