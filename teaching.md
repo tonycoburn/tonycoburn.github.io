@@ -79,10 +79,10 @@ permalink: /teaching/
     - Lab [student feedback](/Spring_2017-PSY_010L_10_Analysis_of_Psych_Data_Lab.pdf) -- *average: 5.5/7*
 * Fall 2016
   + PSY 10: Introduction to Statistics
-    - [student feedback](/Fall_2016-PSY_010_03_Analysis_of_Psychological_Data_(201630-35756-100156913).pdf)
+    - [student feedback](/Fall_2016-PSY_010_03_Analysis_of_Psychological_Data_(201630-35756-100156913).pdf) -- *average: 6.5/7*
 * Spring 2016
   + PSY 10: Introduction to Statistics
-    - [student feedback]()
+    - [student feedback](/SP2016-PSY_010_03_Analysis_of_Psychological_Data.pdf) -- *average: 5.4/7*
 * Fall 2015
   + PSY 105: Advanced Research Methods in Psychology
     - [student feedback]()
