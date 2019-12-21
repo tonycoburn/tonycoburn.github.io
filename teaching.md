@@ -10,7 +10,7 @@ permalink: /teaching/
 
 * Fall 2019
   + STAT 301: Data Science I
-    - [materials]()
+    - [materials](https://github.com/akuyper/stat301_01_labs)
     - [student feedback]()
 
 ### Courses (Teaching Assistant)
@@ -20,10 +20,10 @@ permalink: /teaching/
 
 ## University of California, Merced
 
-### Workshops
+### Workshops (Instructor)
 
 * Spring 2019
-  + Shiny Workshop
+  + Shiny App Workshop
     - [materials](https://osf.io/69j37/)
     - [student feedback](/Shiny_Workshop_2019.csv)
 * Summer 2018
@@ -39,6 +39,8 @@ permalink: /teaching/
 
 * Summer 2017
   + PSY 10: Introduction to Statistics
+    - [materials](https://www.dropbox.com/sh/a220cdf10rhfjpa/AADnANiIDvZWyAzSjytJYobwa?dl=0)
+    
   
 * Summer 2016
   + PSY 10: Introduction to Statistics
