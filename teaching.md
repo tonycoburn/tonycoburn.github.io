@@ -53,7 +53,7 @@ permalink: /teaching/
 
 * Fall 2018
   + PSY 202A: Advanced Psychological Statistics I
-    - [student feedback]() -- *average: 6.8/7*
+    - [student feedback](/F2017-PSY_202A_01_Adv_Psych_Statistics_I.pdf) -- *average: 6.8/7*
 
 #### Undergraduate Level
 
