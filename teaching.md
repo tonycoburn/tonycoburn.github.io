@@ -52,8 +52,8 @@ permalink: /teaching/
 #### Graduate Level
 
 * Fall 2018
-  + PSY 202A: Graduate Statistics
-    - [student feedback]()
+  + PSY 202A: Advanced Psychological Statistics I
+    - [student feedback]() -- average for instructor and course: 6.8/7
 
 #### Undergraduate Level
 
