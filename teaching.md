@@ -4,7 +4,15 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Northwestern University
+#### Table of contents
+
+1. [Northwestern University](#northwest)
+2. [Section 2](#section-2)
+    - [Subsection a](#subsection-a)
+    - [Subsection b](#subsection-b)
+3. [Tutoring](#tutoring)
+
+## Northwestern University {#northwest}
 
 ### Courses (Instructor of Record)
 
@@ -93,3 +101,7 @@ permalink: /teaching/
 * Fall 2012
   + PSY 001: Introduction to Psychology
     - [student feedback]()
+
+## Tutoring {#tutoring}
+
+* Deborah Forester, MA (Stanislaus University, CA)
