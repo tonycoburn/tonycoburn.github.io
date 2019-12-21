@@ -7,28 +7,31 @@ permalink: /teaching/
 #### Table of contents
 
 1. [Northwestern University](#northwest)
-2. [Section 2](#section-2)
-    - [Subsection a](#subsection-a)
-    - [Subsection b](#subsection-b)
-3. [Tutoring](#tutoring)
+    - [Courses (Instructor of Record)](#instruct1)
+    - [Courses (Teaching Assistant)](#ta1)
+2. [University of California, Merced](#ucm)
+    - [Workshops (Instructor)](#workshops)
+    - [Courses (Instructor of Record)](#instruct2)
+    - [Courses (Teaching Assistant)](#ta2)
+        - test
 
 ## Northwestern University {#northwest}
 
-### Courses (Instructor of Record)
+### Courses (Instructor of Record) {#instruct1}
 
 * Fall 2019
   + STAT 301: Data Science I
     - [materials](https://github.com/akuyper/stat301_01_labs)
     - [student feedback]()
 
-### Courses (Teaching Assistant)
+### Courses (Teaching Assistant) {#ta1}
 
 * Winter 2020
   + 
 
-## University of California, Merced
+## University of California, Merced {#ucm}
 
-### Workshops (Instructor)
+### Workshops (Instructor) {#workshops}
 
 * Spring 2019
   + Shiny App Workshop
@@ -43,7 +46,7 @@ permalink: /teaching/
     - [materials](https://ucmerced.app.box.com/v/ucmstatsworkshop)
     - [student feedback](/Summer_Bridge_2018.pdf)
 
-### Courses (Instructor of Record)
+### Courses (Instructor of Record) {#instruct2}
 
 * Summer 2017
   + PSY 10: Introduction to Statistics
@@ -56,7 +59,7 @@ permalink: /teaching/
     - [materials](https://www.dropbox.com/s/97776wxxyto9chw/Spring_2016_materials.zip?dl=0)
     - [student feedback](/SUM2016A-PSY_010_01_Analysis_of_Psychological_Data_(201620-20484-100156913).pdf) -- *average: 6.4/7*
 
-### Courses (Teaching Assistant)
+### Courses (Teaching Assistant) {#ta2}
 
 #### Graduate Level
 
@@ -101,7 +104,3 @@ permalink: /teaching/
 * Fall 2012
   + PSY 001: Introduction to Psychology
     - [student feedback]()
-
-## Tutoring {#tutoring}
-
-* Deborah Forester, MA (Stanislaus University, CA)
