@@ -28,6 +28,7 @@ permalink: /teaching/
     - [student feedback](/Shiny_Workshop_2019.csv)
 * Summer 2018
   + 8-Week Statistics Bootcamp, Competitive Edge Summer Bridge Program
+    - [materials](https://ucmerced.box.com/v/ucmstatsworkshop2018)
     - [student feedback](/Summer_Bridge_2017.pdf)
 * Summer 2017
   + 8-Week Statistics Bootcamp, Competitive Edge Summer Bridge Program
