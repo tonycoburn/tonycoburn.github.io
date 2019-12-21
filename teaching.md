@@ -40,12 +40,13 @@ permalink: /teaching/
 * Summer 2017
   + PSY 10: Introduction to Statistics
     - [materials](https://www.dropbox.com/sh/a220cdf10rhfjpa/AADnANiIDvZWyAzSjytJYobwa?dl=0)
-    - [student feedback]()
+    - Lecture [student feedback](/SUM2017B&C-PSY_010_02_Analysis_of_Psychological_Data.pdf) -- *average: 6.9/7*
+    - Lab [student feedback](/SUM2017B&C-PSY_010L_02_Analysis_of_Psych_Data_Lab.pdf) --  *average: 6.8/7*
   
 * Summer 2016
   + PSY 10: Introduction to Statistics
     - [materials](https://www.dropbox.com/s/97776wxxyto9chw/Spring_2016_materials.zip?dl=0)
-    - [student feedback]()
+    - [student feedback](/SUM2016A-PSY_010_01_Analysis_of_Psychological_Data_(201620-20484-100156913).pdf) -- *average: 6.4/7*
 
 ### Courses (Teaching Assistant)
 
