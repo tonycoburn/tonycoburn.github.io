@@ -29,8 +29,8 @@ permalink: /teaching/
 
 ### Courses (Teaching Assistant) {#ta1}
 
-* Winter 2020
-  + 
+* Winter 2020 (in progress)
+  + STAT 439: Meta-Analysis
 
 ## University of California, Merced {#ucm}
 
