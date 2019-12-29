@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-#### Table of contents
-
 1. [Northwestern University](#northwest)
     - [Courses (Instructor of Record)](#instruct1)
     - [Courses (Teaching Assistant)](#ta1)
