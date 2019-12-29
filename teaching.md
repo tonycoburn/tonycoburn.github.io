@@ -47,7 +47,7 @@ permalink: /teaching/
     - [materials](https://ucmerced.app.box.com/v/ucmstatsworkshop)
     - [student feedback](/Summer_Bridge_2018.pdf)
 
-### Courses (Instructor of Record) {#instruct2}
+### Courses (Instructor of Record) {#instruct2}  -- *average: 6.7/7*
 
 * Summer 2017
   + PSY 10: Introduction to Statistics
@@ -60,7 +60,7 @@ permalink: /teaching/
     - [materials](https://www.dropbox.com/s/97776wxxyto9chw/Spring_2016_materials.zip?dl=0)
     - [student feedback](/SUM2016A-PSY_010_01_Analysis_of_Psychological_Data_(201620-20484-100156913).pdf) -- *average: 6.4/7*
 
-### Courses (Teaching Assistant) {#ta2}
+### Courses (Teaching Assistant) {#ta2} -- *average: 6.0/7*
 
 #### Graduate Level {#grad}
 
