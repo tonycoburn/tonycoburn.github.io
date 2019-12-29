@@ -15,6 +15,8 @@ permalink: /teaching/
     - [Courses (Teaching Assistant)](#ta2)
         - [Graduate Level](#grad)
         - [Undergraduate Level](#undergrad)
+3. [Tutoring](#tutor)
+4. [Awards](#awards)
 
 ## Northwestern University {#northwest}
 
@@ -96,10 +98,19 @@ permalink: /teaching/
   + PSY 10: Introduction to Statistics
 * Fall 2013
   + PSY 189: Behavioral Genetics
-    - [student feedback]()
 * Spring 2013
   + PSY 001: Introduction to Psychology
-    - [student feedback]()
 * Fall 2012
   + PSY 001: Introduction to Psychology
     - [student feedback](/F2012-PSY_001_01_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
+
+### Tutoring {#tutor}
+
+* Joan B. Rich, MPH, UC Berkeley
+* Deborah Forester, MA, Stanislaus State
+* Julianne Cabezut, BA (in progress), Stanislaus State
+* Ashley Bray, Ph. D. (in progress), Liberty University
+
+### Awards {#awards}
+
+* [Outstanding Teaching Award ($1,000), UC Merced, 2015-2016](https://graduatedivision.ucmerced.edu/current-students/awards)
