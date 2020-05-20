@@ -22,10 +22,10 @@ permalink: /teaching/
 ### Courses (Instructor of Record) {#instruct1}
 
 * Spring 2020
-  + STAT 301: Data Science III (in progress)
+  + STAT 301-3: Data Science III (in progress)
 
 * Fall 2019
-  + STAT 301: Data Science I
+  + STAT 301-1: Data Science I
     - [materials](https://github.com/akuyper/stat301_01_labs)
     - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf)
 
@@ -37,7 +37,7 @@ permalink: /teaching/
 ### Courses (Grader) {#grader}
 
 * Winter 2020
-  + STAT 301: Data Science II
+  + STAT 301-2: Data Science II
 
 ## University of California, Merced {#ucm}
 
