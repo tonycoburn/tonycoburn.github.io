@@ -20,6 +20,9 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) {#instruct1}
 
+* Spring 2020
+  + STAT 301: Data Science III (in progress)
+
 * Fall 2019
   + STAT 301: Data Science I
     - [materials](https://github.com/akuyper/stat301_01_labs)
@@ -27,8 +30,13 @@ permalink: /teaching/
 
 ### Courses (Teaching Assistant) {#ta1}
 
-* Winter 2020 (in progress)
+* Winter 2020
   + STAT 439: Meta-Analysis
+  
+### Courses (Grader) {#grader}
+
+* Winter 2020
+  + STAT 301: Data Science II
 
 ## University of California, Merced {#ucm}
 
