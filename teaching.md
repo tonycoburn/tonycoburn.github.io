@@ -26,7 +26,6 @@ permalink: /teaching/
 
 * Fall 2019
   + STAT 301-1: Data Science I
-    - [materials](https://github.com/akuyper/stat301_01_labs)
     - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf)
 
 ### Courses (Teaching Assistant) {#ta1}
