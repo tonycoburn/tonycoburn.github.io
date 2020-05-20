@@ -115,8 +115,8 @@ permalink: /teaching/
 
 * Joan B. Rich, MPH, UC Berkeley
 * Deborah Forester, MA, Stanislaus State
-* Julianne Cabezut, BA (in progress), Stanislaus State
-* Ashley Bray, Ph. D. (in progress), Liberty University
+* Julianne Cabezut, BA, Stanislaus State
+* Ashley Bray, Ph. D., Liberty University
 
 ### Awards {#awards}
 
