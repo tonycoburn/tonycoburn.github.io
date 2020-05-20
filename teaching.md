@@ -7,6 +7,7 @@ permalink: /teaching/
 1. [Northwestern University](#northwest)
     - [Courses (Instructor of Record)](#instruct1)
     - [Courses (Teaching Assistant)](#ta1)
+    - [Courses (Grader)](#grader)
 2. [University of California, Merced](#ucm)
     - [Workshops (Instructor)](#workshops)
     - [Courses (Instructor of Record)](#instruct2)
