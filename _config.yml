@@ -13,6 +13,7 @@ avatar: /images/Hd-pYrdv_400x400.jpg
 
 # Theme:
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
 
 #
 # Flags below are optional
