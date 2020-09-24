@@ -29,7 +29,7 @@ permalink: /teaching/
   + STAT 301-1: Data Science I (in progress)
 * Spring 2020
   + STAT 301-3: Data Science III
-    - [student feedback](/Individual Report for Kathleen Coburn (STAT_301-3_21 Data Science 3)_399cbbed-2021-4eed-89d5-d75532e82baeen-US.pdf)
+    - [student feedback](/stat_301-3_spring2020.pdf)
 * Fall 2019
   + STAT 301-1: Data Science I
     - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf)
