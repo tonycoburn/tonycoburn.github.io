@@ -21,9 +21,15 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) {#instruct1}
 
+* Spring 2021
+  + STAT 301-3: Data Science III [upcoming]
+* Winter 2021
+  + STAT 301-2: Data Science II [upcoming]
+* Fall 2020
+  + STAT 301-1: Data Science I (in progress)
 * Spring 2020
-  + STAT 301-3: Data Science III (in progress)
-
+  + STAT 301-3: Data Science III
+    - [student feedback](/Individual Report for Kathleen Coburn (STAT_301-3_21 Data Science 3)_399cbbed-2021-4eed-89d5-d75532e82baeen-US.pdf)
 * Fall 2019
   + STAT 301-1: Data Science I
     - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf)
@@ -62,7 +68,6 @@ permalink: /teaching/
     - [materials](https://www.dropbox.com/sh/a220cdf10rhfjpa/AADnANiIDvZWyAzSjytJYobwa?dl=0)
     - Lecture [student feedback](/SUM2017B&C-PSY_010_02_Analysis_of_Psychological_Data.pdf) -- *average: 6.9/7*
     - Lab [student feedback](/SUM2017B&C-PSY_010L_02_Analysis_of_Psych_Data_Lab.pdf) --  *average: 6.8/7*
-  
 * Summer 2016
   + PSY 10: Introduction to Statistics
     - [materials](https://www.dropbox.com/s/97776wxxyto9chw/Spring_2016_materials.zip?dl=0)
