@@ -8,7 +8,9 @@ I am originally from San Jose, California. I obtained my B.S. in psychology from
 
 In July 2019, I was hired as a postdoctoral fellow working with the [STEPP (Statistics for Evidence-Based Policy and Practice) Center](https://stepp.center/) at [Northwestern University](https://www.northwestern.edu/). I work with Drs. [Beth Tipton](https://twitter.com/stats_tipton) and [Larry Hedges](https://www.statistics.northwestern.edu/people/faculty/larry-hedges.html). My office is in Room 201, 617 Library Place, Evanston, IL, 60208. 
 
-My primary research interests include reproducibility and related issues, such as publication bias. My dissertation proposed a weight-function model for moderators of publication bias (factors other than statistical significance that impact studies' chance of publication). I also have considerable experience with R and have published an R package on CRAN to implement these weight-function models; see [weightr](https://cran.r-project.org/web/packages/weightr/index.html) (Coburn & Vevea, 2015).
+I have considerable experience both using and teaching R and have published an R package; see [weightr](https://cran.r-project.org/web/packages/weightr/index.html) (Coburn & Vevea, 2015) and the corresponding [Shiny application](https://vevealab.shinyapps.io/WeightFunctionModel/). I am currently developing an R package to accompany [the Generalizer](https://www.thegeneralizer.org/) and anticipate releasing it soon.
+
+I am passionate about pedagogy and am seeking a long-term position as an instructor -- ideally for applied statistics or data science-related courses, although I can also teach psychology courses. I have over 8 years of teaching experience (across roles of instructor of record, teaching assistant, and grader); for more information, see [the related page](https://katiecoburn.github.io/teaching/).
 
 ### Contact me
 
