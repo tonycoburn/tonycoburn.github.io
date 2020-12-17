@@ -19,20 +19,21 @@ permalink: /teaching/
 
 ## Northwestern University {#northwest}
 
-### Courses (Instructor of Record) {#instruct1}
+### Courses (Instructor of Record) -- *average: 5.12/6* {#instruct1}
 
 * Spring 2021
   + STAT 301-3: Data Science III [upcoming]
 * Winter 2021
   + STAT 301-2: Data Science II [upcoming]
 * Fall 2020
-  + STAT 301-1: Data Science I (in progress)
+  + STAT 301-1: Data Science I
+    - [student feedback](/Individual Report for Kathleen Coburn (STAT_301-1_21 Data Science 1)_dfe23d93-0e78-4421-8f13-9961f5f38be8en-US.pdf) -- *average: 5.42/6*
 * Spring 2020
   + STAT 301-3: Data Science III
-    - [student feedback](/stat_301-3_spring2020.pdf)
+    - [student feedback](/stat_301-3_spring2020.pdf) -- *average: 4.84/6*
 * Fall 2019
   + STAT 301-1: Data Science I
-    - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf)
+    - [student feedback](/Northwestern - Individual Report for STAT_301-1_21_ Data Science 1 (Kathleen Coburn).pdf) -- *average: 5.06/6*
 
 ### Courses (Teaching Assistant) {#ta1}
 
