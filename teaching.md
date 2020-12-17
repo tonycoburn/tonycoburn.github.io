@@ -27,7 +27,7 @@ permalink: /teaching/
   + STAT 301-2: Data Science II [upcoming]
 * Fall 2020
   + STAT 301-1: Data Science I
-    - [student feedback](/Individual Report for Kathleen Coburn (STAT_301-1_21 Data Science 1)_dfe23d93-0e78-4421-8f13-9961f5f38be8en-US.pdf) -- *average: 5.42/6*
+    - [student feedback](Individual Report for Kathleen Coburn (STAT_301-1_21 Data Science 1)_dfe23d93-0e78-4421-8f13-9961f5f38be8en-US.pdf) -- *average: 5.42/6*
 * Spring 2020
   + STAT 301-3: Data Science III
     - [student feedback](/stat_301-3_spring2020.pdf) -- *average: 4.84/6*
