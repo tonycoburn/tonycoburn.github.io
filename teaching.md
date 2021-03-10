@@ -21,8 +21,10 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: 5.12/6* {#instruct1}
 
+* Spring 2021
+  + STAT 301-3: Data Science III [upcoming]
 * Winter 2021
-  + STAT 301-2: Data Science II [upcoming]
+  + STAT 301-2: Data Science II [ongoing]
 * Fall 2020
   + STAT 301-1: Data Science I
     - [student feedback](/stat301_1_2020.pdf) -- *average: 5.42/6*
@@ -35,6 +37,8 @@ permalink: /teaching/
 
 ### Courses (Teaching Assistant) {#ta1}
 
+* Spring 2021
+  + STAT 356: Hierarchical Linear Models [upcoming]
 * Winter 2020
   + STAT 439: Meta-Analysis
   
