@@ -39,7 +39,7 @@ permalink: /teaching/
 ### Courses (Teaching Assistant) {#ta1}
 
 * Spring 2021
-  + STAT 356: Hierarchical Linear Models [upcoming]
+  + STAT 356: Hierarchical Linear Models [ongoing]
 * Winter 2020
   + STAT 439: Meta-Analysis
   
