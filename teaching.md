@@ -19,7 +19,7 @@ permalink: /teaching/
 
 ## Northwestern University {#northwest}
 
-### Courses (Instructor of Record) -- *average: 5.19/6* {#instruct1}
+### Courses (Instructor of Record) -- *average: 5.25/6* {#instruct1}
 
 * Spring 2021
   + STAT 301-3: Data Science III
@@ -40,7 +40,7 @@ permalink: /teaching/
 ### Courses (Teaching Assistant) {#ta1}
 
 * Spring 2021
-  + STAT 356: Hierarchical Linear Models [ongoing]
+  + STAT 356: Hierarchical Linear Models
 * Winter 2020
   + STAT 439: Meta-Analysis
   
