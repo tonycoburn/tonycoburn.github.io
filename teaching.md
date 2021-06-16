@@ -22,7 +22,8 @@ permalink: /teaching/
 ### Courses (Instructor of Record) -- *average: 5.19/6* {#instruct1}
 
 * Spring 2021
-  + STAT 301-3: Data Science III [ongoing]
+  + STAT 301-3: Data Science III
+    - [student feedback](/stat_301_03_2021.pdf) -- *average: 5.51/6*
 * Winter 2021
   + STAT 301-2: Data Science II
     - [student feedback](/coburn_data_science_2.pdf) -- *average: 5.43/6*
