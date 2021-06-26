@@ -10,7 +10,7 @@ In July 2019, I was hired as a postdoctoral fellow working with the [STEPP (Stat
 
 I have considerable experience both using and teaching R and have published an R package; see [weightr](https://cran.r-project.org/web/packages/weightr/index.html) (Coburn & Vevea, 2015) and the corresponding [Shiny application](https://vevealab.shinyapps.io/WeightFunctionModel/). I am currently developing an R package to accompany [the Generalizer](https://www.thegeneralizer.org/) and anticipate releasing it soon.
 
-I am passionate about pedagogy and am seeking a long-term position as an instructor -- ideally for applied statistics or data science-related courses, although I can also teach psychology courses. I have over 8 years of teaching experience (across roles of instructor of record, teaching assistant, and grader); for more information, see [the related page](https://katiecoburn.github.io/teaching/).
+I am passionate about pedagogy and am seeking a long-term position as an instructor -- ideally for applied statistics or data science-related courses, although I can also teach psychology courses. I have over 9 years of teaching experience (across roles of instructor of record, teaching assistant, and grader); for more information, see [the related page](https://katiecoburn.github.io/teaching/).
 
 ### Contact me
 
