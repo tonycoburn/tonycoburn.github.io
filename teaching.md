@@ -4,18 +4,28 @@ title: Teaching
 permalink: /teaching/
 ---
 
-1. [Northwestern University](#northwest)
+1. [University of California, Santa Barbara](#ucsb)
+    - [Courses (Instructor of Record)](#instruct3)
+2. [Northwestern University](#northwest)
     - [Courses (Instructor of Record)](#instruct1)
     - [Courses (Teaching Assistant)](#ta1)
     - [Courses (Grader)](#grader)
-2. [University of California, Merced](#ucm)
+3. [University of California, Merced](#ucm)
     - [Workshops (Instructor)](#workshops)
     - [Courses (Instructor of Record)](#instruct2)
     - [Courses (Teaching Assistant)](#ta2)
         - [Graduate Level](#grad)
         - [Undergraduate Level](#undergrad)
-3. [Tutoring](#tutor)
-4. [Awards](#awards)
+4. [Tutoring](#tutor)
+5. [Awards](#awards)
+
+## University of California, Santa Barbara {#ucsb}
+
+### Courses (Instructor of Record) -- *average: TBD* {#instruct3}
+
+* Fall 2021 (in progress)
+  + PSTAT 120B: Probability and Statistics II
+  + PSTAT 190: Teaching and Mentoring Statistics and Data Science
 
 ## Northwestern University {#northwest}
 
