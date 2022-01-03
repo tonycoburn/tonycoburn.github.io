@@ -23,7 +23,11 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: TBD* {#instruct3}
 
-* Fall 2021 (in progress)
+* Winter 2022 (in progress)
+  + PSTAT 120B: Probability and Statistics II
+  + PSTAT 131/231: Introduction to Statistical Machine Learning
+  
+* Fall 2021
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 190: Teaching and Mentoring Statistics and Data Science
 
