@@ -21,7 +21,7 @@ permalink: /teaching/
 
 ## University of California, Santa Barbara {#ucsb}
 
-### Courses (Instructor of Record) -- *average: TBD* {#instruct3}
+### Courses (Instructor of Record) -- *average: 4.4/5* {#instruct3}
 
 * Winter 2022 (in progress)
   + PSTAT 120B: Probability and Statistics II
@@ -29,7 +29,9 @@ permalink: /teaching/
   
 * Fall 2021
   + PSTAT 120B: Probability and Statistics II
+    - [student feedback](/2021_4F_E_ON_FAC_COBURN_K_M_PSTAT__120_B_0200.pdf) -- *average: 4.2/5*
   + PSTAT 190: Teaching and Mentoring Statistics and Data Science
+    - [student feedback](/2021_4F_E_ON_FAC_COBURN_K_M_PSTAT__190__0100.pdf) -- *average: 4.6/5*
 
 ## Northwestern University {#northwest}
 
