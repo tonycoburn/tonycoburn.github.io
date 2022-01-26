@@ -23,6 +23,11 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: 4.4/5* {#instruct3}
 
+* Spring 2022 (upcoming)
+  + PSTAT 120A: Probability and Statistics I
+  + PSTAT 120B: Probability and Statistics II
+  + PSTAT 131/231: Introduction to Statistical Machine Learning
+
 * Winter 2022 (in progress)
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 131/231: Introduction to Statistical Machine Learning
