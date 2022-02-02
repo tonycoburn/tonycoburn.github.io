@@ -23,6 +23,13 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: 4.4/5* {#instruct3}
 
+* Summer 2022 (upcoming)
+  + Session A
+    - PSTAT 120B: Probability and Statistics II
+  + Session B
+    - PSTAT 120B: Probability and Statistics II
+    - PSTAT 120C: Probability and Statistics III
+
 * Spring 2022 (upcoming)
   + PSTAT 120A: Probability and Statistics I
   + PSTAT 120B: Probability and Statistics II
