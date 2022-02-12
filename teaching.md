@@ -31,7 +31,7 @@ permalink: /teaching/
     - PSTAT 120C: Probability and Statistics III
 
 * Spring 2022 (upcoming)
-  + PSTAT 120A: Probability and Statistics I
+  + PSTAT 120B: Probability and Statistics I
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 131/231: Introduction to Statistical Machine Learning
 
