@@ -151,7 +151,7 @@ permalink: /teaching/
 
 ## Testimonials {#testimonials}
 
-<a href="{{ site.baseurl }}/testimonials">Unprompted feedback/testimonials from students</a>
+<a href="{{ site.baseurl }}/testimonials">Unprompted feedback from students</a>
 
 ## Tutoring {#tutor}
 
