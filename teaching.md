@@ -16,8 +16,9 @@ permalink: /teaching/
     - [Courses (Teaching Assistant)](#ta2)
         - [Graduate Level](#grad)
         - [Undergraduate Level](#undergrad)
-4. [Tutoring](#tutor)
-5. [Awards](#awards)
+4. [Testimonials](#testimonials)
+5. [Tutoring](#tutor)
+6. [Awards](#awards)
 
 ## University of California, Santa Barbara {#ucsb}
 
@@ -148,13 +149,17 @@ permalink: /teaching/
   + PSY 001: Introduction to Psychology
     - [student feedback](/F2012-PSY_001_01_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
 
-### Tutoring {#tutor}
+## Testimonials
+
+<a href="{{ site.baseurl }}/testimonials">Unprompted feedback/testimonials from students</a>
+
+## Tutoring {#tutor}
 
 * Joan B. Rich, MPH, UC Berkeley
 * Deborah Forester, MA, Stanislaus State
 * Julianne Cabezut, BA, Stanislaus State
 * Ashley Bray, Ph. D., Liberty University
 
-### Awards {#awards}
+## Awards {#awards}
 
 * [Outstanding Teaching Award ($1,000), UC Merced, 2015-2016](https://graduatedivision.ucmerced.edu/current-students/awards)
