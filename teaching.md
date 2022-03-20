@@ -149,7 +149,7 @@ permalink: /teaching/
   + PSY 001: Introduction to Psychology
     - [student feedback](/F2012-PSY_001_01_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
 
-## Testimonials
+## Testimonials {#testimonials}
 
 <a href="{{ site.baseurl }}/testimonials">Unprompted feedback/testimonials from students</a>
 
