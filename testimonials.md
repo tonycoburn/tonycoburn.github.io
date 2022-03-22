@@ -19,3 +19,7 @@ permalink: /testimonials/
 ---
 
 ![](img5.png)
+
+---
+
+![](img6.png)
