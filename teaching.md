@@ -22,7 +22,7 @@ permalink: /teaching/
 
 ## University of California, Santa Barbara {#ucsb}
 
-### Courses (Instructor of Record) -- *average: 4.4/5* {#instruct3}
+### Courses (Instructor of Record) -- *average: 4.58/5* {#instruct3}
 
 * Summer 2022 (upcoming)
   + Session A
@@ -31,14 +31,18 @@ permalink: /teaching/
     - PSTAT 120B: Probability and Statistics II
     - PSTAT 120C: Probability and Statistics III
 
-* Spring 2022 (upcoming)
+* Spring 2022 (in progress)
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 131/231: Introduction to Statistical Machine Learning
 
-* Winter 2022 (in progress)
+* Winter 2022
   + PSTAT 120B: Probability and Statistics II
-  + PSTAT 131/231: Introduction to Statistical Machine Learning
+    - [student feedback](/2022_1W_E_ON_FAC_COBURN_K_M_PSTAT__120_B_0200.pdf) -- *average: 4.7/5*
+  + PSTAT 131: Introduction to Statistical Machine Learning
+    - [student feedback](/2022_1W_E_ON_FAC_COBURN_K_M_PSTAT__131__0100.pdf) -- *average: 4.6/5*
+  + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+    - [student feedback](/2022_1W_E_ON_FAC_COBURN_K_M_PSTAT__231__0100.pdf) -- *average: 4.8/5*
   
 * Fall 2021
   + PSTAT 120B: Probability and Statistics II
