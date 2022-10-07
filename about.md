@@ -17,5 +17,3 @@ I am passionate about pedagogy and have over 9 years of teaching experience; for
 ### Contact me
 
 [katie_m_coburn@ucsb.edu](mailto:katie_m_coburn@ucsb.edu)
-
-+1 (408) 914-5373
