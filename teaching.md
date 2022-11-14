@@ -29,7 +29,7 @@ permalink: /teaching/
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
   + PSTAT 131: Introduction to Statistical Machine Learning
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
-  + 
+ 
 * Fall 2022 (in progress)
   + PSTAT 120A: Probability and Statistics I
   + PSTAT 120B: Probability and Statistics II
