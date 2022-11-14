@@ -27,14 +27,22 @@ permalink: /teaching/
 * Summer 2022 (upcoming)
   + Session A
     - PSTAT 120B: Probability and Statistics II
+        - [student feedback]() -- *average: 4.7/5*
   + Session B
     - PSTAT 120B: Probability and Statistics II
+        - [student feedback]() -- *average: 4.5/5*
     - PSTAT 120C: Probability and Statistics III
+        - [student feedback]() -- *average: 4.8/5*
 
 * Spring 2022 (in progress)
   + PSTAT 120B: Probability and Statistics II
+    - [student feedback]() -- *average: 4.6/5*
   + PSTAT 120B: Probability and Statistics II
-  + PSTAT 131/231: Introduction to Statistical Machine Learning
+    - [student feedback]() -- *average: 4.7/5*
+  + PSTAT 131: Introduction to Statistical Machine Learning
+    - [student feedback]() -- *average: 4.2/5*
+  + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+    - [student feedback]() -- *average: 4.2/5*
 
 * Winter 2022
   + PSTAT 120B: Probability and Statistics II
