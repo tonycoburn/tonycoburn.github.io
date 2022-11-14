@@ -22,27 +22,27 @@ permalink: /teaching/
 
 ## University of California, Santa Barbara {#ucsb}
 
-### Courses (Instructor of Record) -- *average: 4.58/5* {#instruct3}
+### Courses (Instructor of Record) -- *average: 4.55/5* {#instruct3}
 
 * Summer 2022 (upcoming)
   + Session A
     - PSTAT 120B: Probability and Statistics II
-        - [student feedback]() -- *average: 4.7/5*
+        - [student feedback](/2022_3M_S_ON_FAC_COBURN_K_M_PSTAT__120_B_0100.pdf) -- *average: 4.7/5*
   + Session B
     - PSTAT 120B: Probability and Statistics II
-        - [student feedback]() -- *average: 4.5/5*
+        - [student feedback](/2022_3M_S_ON_FAC_COBURN_K_M_PSTAT__120_B_0200.pdf) -- *average: 4.5/5*
     - PSTAT 120C: Probability and Statistics III
-        - [student feedback]() -- *average: 4.8/5*
+        - [student feedback](/2022_3M_S_ON_FAC_COBURN_K_M_PSTAT__120_C_0100.pdf) -- *average: 4.8/5*
 
 * Spring 2022 (in progress)
   + PSTAT 120B: Probability and Statistics II
-    - [student feedback]() -- *average: 4.6/5*
+    - [student feedback](/2022_2S_E_ON_FAC_COBURN_K_M_PSTAT__120_B_0100.pdf) -- *average: 4.6/5*
   + PSTAT 120B: Probability and Statistics II
-    - [student feedback]() -- *average: 4.7/5*
+    - [student feedback](/2022_2S_E_ON_FAC_COBURN_K_M_PSTAT__120_B_0200.pdf) -- *average: 4.7/5*
   + PSTAT 131: Introduction to Statistical Machine Learning
-    - [student feedback]() -- *average: 4.2/5*
+    - [student feedback](/2022_2S_E_ON_FAC_COBURN_K_M_PSTAT__131__0100.pdf) -- *average: 4.2/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
-    - [student feedback]() -- *average: 4.2/5*
+    - [student feedback](/2022_2S_E_ON_FAC_COBURN_K_M_PSTAT__231__0100.pdf) -- *average: 4.2/5*
 
 * Winter 2022
   + PSTAT 120B: Probability and Statistics II
