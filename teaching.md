@@ -24,7 +24,12 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: 4.59/5* {#instruct3}
 
-* Winter 2022 (upcoming)
+* Spring 2023 (in progress)
+  + PSTAT 120B: Probability and Statistics II
+  + PSTAT 131: Introduction to Statistical Machine Learning
+  + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+
+* Winter 2022
   + PSTAT 131: Introduction to Statistical Machine Learning
     - [student feedback]() -- *average: 4.7/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
@@ -34,7 +39,7 @@ permalink: /teaching/
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
     - [student feedback]() -- *average: 4.9/5*
  
-* Fall 2022 (in progress)
+* Fall 2022
   + PSTAT 120A: Probability and Statistics I
     - [student feedback]() -- *average: 4.1/5*
   + PSTAT 120B: Probability and Statistics II
