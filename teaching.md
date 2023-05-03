@@ -29,25 +29,25 @@ permalink: /teaching/
   + PSTAT 131: Introduction to Statistical Machine Learning
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
 
-* Winter 2022
+* Winter 2023
   + PSTAT 131: Introduction to Statistical Machine Learning
-    - [student feedback]() -- *average: 4.7/5*
+    - [student feedback](/2023_1W_E_ON_FAC_COBURN_K_M_PSTAT__131__0200 (1).pdf) -- *average: 4.7/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
-    - [student feedback]() -- *average: 4.6/5*
+    - [student feedback](/2023_1W_E_ON_FAC_COBURN_K_M_PSTAT__231__0200 (1).pdf) -- *average: 4.6/5*
   + PSTAT 131: Introduction to Statistical Machine Learning
-    - [student feedback]() -- *average: 4.8/5*
+    - [student feedback](/2023_1W_E_ON_FAC_COBURN_K_M_PSTAT__131__0100 (1).pdf) -- *average: 4.8/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
-    - [student feedback]() -- *average: 4.9/5*
+    - [student feedback](/2023_1W_E_ON_FAC_COBURN_K_M_PSTAT__231__0100 (1).pdf) -- *average: 4.9/5*
  
 * Fall 2022
   + PSTAT 120A: Probability and Statistics I
-    - [student feedback]() -- *average: 4.1/5*
+    - [student feedback](/2022_4F_E_ON_FAC_COBURN_K_M_PSTAT__120_A_0200.pdf) -- *average: 4.1/5*
   + PSTAT 120B: Probability and Statistics II
-    - [student feedback]() -- *average: 4.5/5*
+    - [student feedback](/2022_4F_E_ON_FAC_COBURN_K_M_PSTAT__120_B_0200.pdf) -- *average: 4.5/5*
   + PSTAT 131: Introduction to Statistical Machine Learning
-    - [student feedback]() -- *average: 4.7/5*
+    - [student feedback](/2022_4F_E_ON_FAC_COBURN_K_M_PSTAT__131__0200.pdf) -- *average: 4.7/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
-    - [student feedback]() -- *average: 4.9/5*
+    - [student feedback](/2022_4F_E_ON_FAC_COBURN_K_M_PSTAT__231__0200.pdf) -- *average: 4.9/5*
 
 * Summer 2022
   + Session A
