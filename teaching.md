@@ -22,19 +22,27 @@ permalink: /teaching/
 
 ## University of California, Santa Barbara {#ucsb}
 
-### Courses (Instructor of Record) -- *average: 4.55/5* {#instruct3}
+### Courses (Instructor of Record) -- *average: 4.59/5* {#instruct3}
 
 * Winter 2022 (upcoming)
   + PSTAT 131: Introduction to Statistical Machine Learning
+    - [student feedback]() -- *average: 4.7/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+    - [student feedback]() -- *average: 4.6/5*
   + PSTAT 131: Introduction to Statistical Machine Learning
+    - [student feedback]() -- *average: 4.8/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+    - [student feedback]() -- *average: 4.9/5*
  
 * Fall 2022 (in progress)
   + PSTAT 120A: Probability and Statistics I
+    - [student feedback]() -- *average: 4.1/5*
   + PSTAT 120B: Probability and Statistics II
+    - [student feedback]() -- *average: 4.5/5*
   + PSTAT 131: Introduction to Statistical Machine Learning
+    - [student feedback]() -- *average: 4.7/5*
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
+    - [student feedback]() -- *average: 4.9/5*
 
 * Summer 2022
   + Session A
