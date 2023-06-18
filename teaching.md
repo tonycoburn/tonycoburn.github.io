@@ -16,9 +16,10 @@ permalink: /teaching/
     - [Courses (Teaching Assistant)](#ta2)
         - [Graduate Level](#grad)
         - [Undergraduate Level](#undergrad)
-4. [Testimonials](#testimonials)
-5. [Tutoring](#tutor)
-6. [Awards](#awards)
+4. [Guest Lectures](#guestlect)    
+5. [Testimonials](#testimonials)
+6. [Tutoring](#tutor)
+7. [Awards](#awards)
 
 ## University of California, Santa Barbara {#ucsb}
 
@@ -185,6 +186,19 @@ permalink: /teaching/
 * Fall 2012
   + PSY 001: Introduction to Psychology
     - [student feedback](/F2012-PSY_001_01_Introduction_to_Psychology.pdf) -- *average: 5.9/7*
+   
+## Guest Lectures {#guestlect}
+
+* Winter 2019
+  + STAT 439: Meta-Analysis (Northwestern University)
+* Spring 2017
+  + PSY 010: Introduction to Statistics (UC Merced)
+* Spring 2016
+  + PSY 010: Introduction to Statistics (UC Merced)
+* Fall 2015
+  + PSY 105: Advanced Research Methods in Psychology (UC Merced)
+* Spring 2014
+  + PSY 010: Introduction to Statistics (UC Merced)
 
 ## Testimonials {#testimonials}
 
