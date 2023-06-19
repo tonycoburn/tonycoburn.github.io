@@ -8,7 +8,7 @@ permalink: /testimonials/
 
 ---
 
-![](img_12.jpg)
+![](img_14.jpg)
 
 ---
 
