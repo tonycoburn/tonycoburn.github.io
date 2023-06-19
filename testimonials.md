@@ -4,7 +4,17 @@ title: Testimonials
 permalink: /testimonials/
 ---
 
-## Anonymized (unsolicited) feedback from students
+## Unsolicited feedback from students
+
+---
+
+![](img_12.jpg)
+
+---
+
+![](img_13.jpg)
+
+---
 
 ![](img1.jpg)
 
