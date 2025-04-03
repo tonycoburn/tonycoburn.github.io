@@ -25,7 +25,32 @@ permalink: /teaching/
 
 ### Courses (Instructor of Record) -- *average: 4.59/5* {#instruct3}
 
-* Spring 2023 (in progress)
+Note that the course evaluations were changed between BLANK and BLANK, and the question of ___ was removed. Since I can no longer find an approximately equivalent question to consider as an overall rating of teaching, independent of course content, there are no more averages reported.
+
+* Spring 2025 (in progress)
+  
+* Winter 2025
+  + PSTAT 120B: Probability and Statistics II
+  + PSTAT 197B/CMPSCI:
+  + PSTAT 134:
+
+* Fall 2024
+  + PSTAT 197A/:
+  + PSTAT 134:
+  + PSTAT 234:
+  + PSTAT 120A:
+
+* Summer 2024
+  
+* Spring 2024
+  
+* Winter 2024
+
+* Fall 2023
+  
+* Summer 2023
+  
+* Spring 2023
   + PSTAT 120B: Probability and Statistics II
   + PSTAT 131: Introduction to Statistical Machine Learning
   + PSTAT 231: Introduction to Statistical Machine Learning (graduate level)
